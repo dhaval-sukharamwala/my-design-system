@@ -1,9 +1,4 @@
-/* Collection 1 */
+/* Collection 1 — Default */
 :root {
-  /* Mode 1 */
-  /* color */
-  --color-color-primary: #005fee;
-  /* Default */
-  /* color */
   --color-color-primary: #005fee;
 }
