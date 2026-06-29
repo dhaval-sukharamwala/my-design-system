@@ -4,3 +4,8 @@
   --radius-md: 8px;
   --space-md: 16px;
 }
+.button { 
+  background: var(--color-brand); 
+  border-radius: var(--radius-md); 
+  padding: var(--space-md); 
+}
