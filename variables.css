@@ -1,4 +1,6 @@
 /* Collection 1 — Default */
 :root {
-  --color-primary: #ee0004;
+  --color-brand: #ee0004;
+  --radius-md: 8px;
+  --space-md: 16px;
 }
