@@ -1,11 +1,6 @@
 /* Collection 1 — Default */
 :root {
-  --color-brand: #ee0004;
+  --color-primary: #ee0004;
   --radius-md: 8px;
   --space-md: 16px;
-}
-.button { 
-  background: var(--color-brand); 
-  border-radius: var(--radius-md); 
-  padding: var(--space-md); 
 }
