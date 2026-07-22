@@ -1,0 +1,52 @@
+# Ignore OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Node/npm
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+package-lock.json
+yarn.lock
+
+# Ignore build outputs
+dist/
+build/
+.next/
+out/
+.nuxt/
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore project artifacts
+.DS_Store
+*.log
+*.swp
+.cache/
+
+# Ignore design tool backups
+*.figbak
+*.xd~
+
+# Ignore temporary files
+tmp/
+temp/
+*.tmp
